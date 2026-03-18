@@ -65,7 +65,3 @@
     * **성능 하락:** 실험 결과, 정확도가 98% 후반대로 하락하여 최종 파이프라인에서 제외했습니다.
 
 ---[test_predictions (1).csv](https://github.com/user-attachments/files/26076226/test_predictions.1.csv)
-d6e4d5254a5a4741.wav,speaker_33
-7047bda53a3a49c4.wav,speaker_40
-e917c018ca1e4246.wav,speaker_27
-
